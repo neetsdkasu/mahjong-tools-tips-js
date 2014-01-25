@@ -32,5 +32,7 @@ http://www.pixiv.net/member_illust.php?mode=medium&illust_id=40720073
 
 
 ### 実演
-http://www.geocities.jp/takeiteasy_idontthinkso/mysoft/js_mahjong/tenpai.html
+http://www.geocities.jp/takeiteasy_idontthinkso/mysoft/js_mahjong/  
+  
+* tenpai.html http://www.geocities.jp/takeiteasy_idontthinkso/mysoft/js_mahjong/tenpai.html  
 
