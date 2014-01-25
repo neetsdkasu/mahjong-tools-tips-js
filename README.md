@@ -2,18 +2,19 @@ mahjong-tools-tips-js
 =====================
 
 JavaScript Tools And Tips for Japanese Riichi Mahjong
-
-
+  
+  
 麻雀に必要なツールやチップを作ってこうと思う
   
+  
+-tenpai.html 聴牌・向聴数を計算するスクリプト  
 
+ライブラリ(lib/ ディレクトリ下に配置)  
 -mt19937ar.js 疑似乱数生成スクリプト  
 -itemfw.js DOM操作スクリプト  
   
--tenpai.html 聴牌・向聴数を計算するスクリプト  
   
-  
-画像ファイル 
+画像ファイル(img/ ディレクトリ下に配置) 
 slice_0_0.png ～ slice_0_8.png (萬子 1m～9m)  
 slice_0_9.png (萬子 赤５萬)  
 slice_1_0.png ～ slice_1_8.png (筒子 1p～9p)  
