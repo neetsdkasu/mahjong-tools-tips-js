@@ -30,3 +30,7 @@ JavaScript Tools And Tips for Japanese Riichi Mahjong
 尚、これらの牌画像は私が自前で作った画像(下記URL参照)をGIMPで分割して利用した  
 http://www.pixiv.net/member_illust.php?mode=medium&illust_id=40720073  
 
+
+### 実演
+http://www.geocities.jp/takeiteasy_idontthinkso/mysoft/js_mahjong/tenpai.html
+
