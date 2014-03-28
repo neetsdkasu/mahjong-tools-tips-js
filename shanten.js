@@ -466,6 +466,14 @@ function calc(pai, len) {
         }
     }
     
+    if (mn == 0) {
+        ss += " ˜a—¹";
+    } else if (mn == 1) {
+        ss += " ’®”v";
+    } else if (mn > 1) {
+        ss += " " + (mn - 1) + " Œü’®";
+    }
+    
     return ss;
 }
 
