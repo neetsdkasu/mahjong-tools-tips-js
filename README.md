@@ -28,7 +28,7 @@ JavaScript Tools And Tips for Japanese Riichi Mahjong
 * slice_3_7.png ～ slice_3_9.png (牌の背面 ３色分)  
   
 尚、これらの牌画像は私が自前で作った画像(下記URL参照)をGIMPで分割して利用した  
-http://www.pixiv.net/member_illust.php?mode=medium&illust_id=40720073  
+http://www.pixiv.net/member_illust.php?mode=medium&illust_id=42555974  
 
 
 ### 実演
