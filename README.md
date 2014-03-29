@@ -9,7 +9,9 @@ JavaScript Tools And Tips for Japanese Riichi Mahjong
   
   
 ### あるもの  
-* tenpai.html 聴牌・向聴数を計算するスクリプト  
+* tenpai.html 聴牌・向聴数を計算の表示用  
+* shanten.js 聴牌・向聴数を計算するスクリプト  
+* mjcommon.js 共通で使えそうなスクリプトのまとめ  
 
 ### ライブラリ(lib/ ディレクトリ下に配置)  
 * mt19937ar.js 疑似乱数生成スクリプト( https://github.com/neetsdkasu/mt19937ar-MersenneTwister-JS )  
