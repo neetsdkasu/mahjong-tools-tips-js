@@ -467,11 +467,11 @@ function calc(pai, len) {
     }
     
     if (mn == 0) {
-        ss += " ˜a—¹";
+        ss += " å’Œäº†";
     } else if (mn == 1) {
-        ss += " ’®”v";
+        ss += " è´ç‰Œ";
     } else if (mn > 1) {
-        ss += " " + (mn - 1) + " Œü’®";
+        ss += " " + (mn - 1) + " å‘è´";
     }
     
     return ss;

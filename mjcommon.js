@@ -1,5 +1,5 @@
 
-// n–¢–‚Ì—”¶¬
+// næœªæº€ã®ä¹±æ•°ç”Ÿæˆ
 var rand = (function () {
     if (MersenneTwister) {
         var _mtRand = new MersenneTwister();
@@ -21,18 +21,18 @@ var rand = (function () {
 })();
 
 
-// ”vID(0`135)‚©‚ç”v‰æ‘œ‚ÌURL‚Ìæ“¾
+// ç‰ŒID(0ï½135)ã‹ã‚‰ç‰Œç”»åƒã®URLã®å–å¾—
 function getPaiImageSrc(id) {
     var p = id >> 2;
     var x = p % 9;
     var y = (p - x) / 9;
-    if ((y < 3) && (x == 4) && (id % 4 == 0)) { // Ôƒhƒ‰
+    if ((y < 3) && (x == 4) && (id % 4 == 0)) { // èµ¤ãƒ‰ãƒ©
         x = 9;
     }
     return "img/slice_" + y + "_" + x + ".png";
 }
 
-// ”ví”Ô†(0`33)‚©‚ç”v‚Ì–¼‘Oæ“¾
+// ç‰Œç¨®ç•ªå·(0ï½33)ã‹ã‚‰ç‰Œã®åå‰å–å¾—
 function paiName34(p, a) {
     var x = (p % 9);
     var y = (p - x) / 9;
@@ -44,12 +44,12 @@ function paiName34(p, a) {
     return (x + 1) + ['m', 'p', 's', 'z'][y];
 }
 
-// ”vID(0`135)‚©‚ç”v‚Ì–¼‘Oæ“¾
+// ç‰ŒID(0ï½135)ã‹ã‚‰ç‰Œã®åå‰å–å¾—
 function paiName136(id) {
     var p = i >> 2;
     var x = p % 9;
     var y = (p - x) / 9;
-    if ((y < 3) && (x == 4) && (i % 4 == 0)) { // Ôƒhƒ‰
+    if ((y < 3) && (x == 4) && (i % 4 == 0)) { // èµ¤ãƒ‰ãƒ©
         x = -1;
     }
     return (x + 1) + ['m', 'p', 's', 'z'][y];
