@@ -34,7 +34,7 @@ http://www.pixiv.net/member_illust.php?mode=medium&illust_id=57269027
 
 
 ### 実演
-http://neetsdkasu.github.io/mahjong-tools-tips-js/  
+https://neetsdkasu.github.io/mahjong-tools-tips-js/  
   
-* tenpai.html http://neetsdkasu.github.io/mahjong-tools-tips-js/tenpai.html  
+* tenpai.html https://neetsdkasu.github.io/mahjong-tools-tips-js/tenpai.html  
 
